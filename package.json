@@ -1,0 +1,23 @@
+{
+  "name": "pupetteer",
+  "version": "1.0.0",
+  "description": "MDS project with puppeteer for tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keyto-Shouko/pupetteer.git"
+  },
+  "author": "Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keyto-Shouko/pupetteer/issues"
+  },
+  "homepage": "https://github.com/Keyto-Shouko/pupetteer#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^22.9.0"
+  }
+}
